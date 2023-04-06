@@ -1,0 +1,5 @@
+com\Hcc\MenuItem\MenuItemApplication.class
+com\Hcc\MenuItem\controller\MenuItemController.class
+com\Hcc\MenuItem\entity\MenuItem.class
+com\Hcc\MenuItem\repository\MenuItemRepository.class
+com\Hcc\MenuItem\service\MenuItemService.class
